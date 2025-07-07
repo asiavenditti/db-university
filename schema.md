@@ -69,8 +69,7 @@ ogni `Dipartimento` offre più `Corsi di Laurea` (es.: Civiltà e Letterature Cl
 - data
 
 
-
-## dettaglio_esame
+## dettagli_esame
 - id PRIMARY KEY
 - voto
 - esito
