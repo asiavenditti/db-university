@@ -13,7 +13,9 @@ WHERE `cfu` > 10;
 
 ***
 
-non lo so
+SELECT * 
+FROM `students`
+WHERE `date_of_birth` < '1995-08-07'
 
 ***
 
